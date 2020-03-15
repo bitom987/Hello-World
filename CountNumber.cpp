@@ -5,9 +5,8 @@ using namespace std;
 int main()
 {
 
-    cout<<"Hello Vietnam and my family";
-
-    cout<<"Hello Family";
+    	int i=0;
+	for (i;i<11;i++) cout<<i<<" ";
 
     return 0;
 }
